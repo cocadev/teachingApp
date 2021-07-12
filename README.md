@@ -1,4 +1,4 @@
-# rn-teaching
+# react-native Teaching App
 
 https://www.yakvernac.com/
 
